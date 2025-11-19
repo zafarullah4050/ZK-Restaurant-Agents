@@ -1,0 +1,47 @@
+{
+  "Fast Food": [
+    {"name": "Zinger Burger", "price": 450},
+    {"name": "Chicken Roll", "price": 250},
+    {"name": "Fries", "price": 150}
+  ],
+  "BBQ": [
+    {"name": "Chicken Tikka", "price": 350},
+    {"name": "Malai Boti", "price": 500}
+  ],
+  "Desi": [
+    {"name": "Chicken Karahi", "price": 1200},
+    {"name": "Daal Fry", "price": 180}
+  ],
+  "Pashtoon Special": [
+    {"name": "Peshawari Namkeen Karahi (Chicken)", "price": 1100},
+    {"name": "Peshawari Namkeen Karahi (Mutton)", "price": 2200},
+    {"name": "Shinwari Karahi (Chicken)", "price": 1300},
+    {"name": "Shinwari Karahi (Mutton)", "price": 2500},
+    {"name": "Chapli Kebab (2 pcs)", "price": 300},
+    {"name": "Dumba Karahi (Special)", "price": 3500},
+    {"name": "Peshawari Sajji (Chicken)", "price": 800},
+    {"name": "Peshawari Sajji (Mutton)", "price": 3200},
+    {"name": "Kabuli Pulao (Afghani)", "price": 450},
+    {"name": "Namkeen Tikka (Chicken)", "price": 350},
+    {"name": "Namkeen Tikka (Mutton)", "price": 700},
+    {"name": "Afghani Boti", "price": 600},
+    {"name": "Afghani Kabab", "price": 500},
+    {"name": "Dum Pukht (Mutton)", "price": 2500},
+    {"name": "Rosh (Beef/Mutton)", "price": 1800},
+    {"name": "Painda / Sohbat Special", "price": 900},
+    {"name": "Lamb Leg Roast", "price": 3500},
+    {"name": "Peshawari Ice Cream (Kulfi)", "price": 120}
+  ],
+  "Bread & Extras": [
+    {"name": "Afghani Naan", "price": 30},
+    {"name": "Peshawari Paratha", "price": 50},
+    {"name": "Raita", "price": 40},
+    {"name": "Salad", "price": 30}
+  ],
+  "Kahwa & Drinks": [
+    {"name": "Peshawari Kahwa", "price": 70},
+    {"name": "Green Tea", "price": 50},
+    {"name": "Doodh Patti", "price": 60},
+    {"name": "Cold Drink", "price": 70}
+  ]
+}
